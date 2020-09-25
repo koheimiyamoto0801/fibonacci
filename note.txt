@@ -1,0 +1,15 @@
+• time node file.js
+=>to calculate the processing time.
+---------------
+real	0m53.010s 
+user	0m52.927s //time for this user
+sys	0m0.031s //time system used for other stuff
+---------------
+
+• node --prof file.js
+=> to create log file regarding the processing
+
+• node --prof-process logfile.log
+=> to show the log file 
+
+
